@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @VSeSharp
+- 🌱 I’m currently learning GraphQL and Kafka.
