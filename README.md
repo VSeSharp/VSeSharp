@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @VSeSharp
-- 🌱 I’m currently learning GraphQL and Kafka.
+- 🌱 I’m currently learning GraphQL and Kafka event streaming platform.
