@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @VSeSharp
-- 🌱 I’m currently learning GraphQL and Kafka event streaming platform.
+- 🌱 I love combining the GraphQL query and API's.
+- ⛅ I'm on the way of becoming an Azure Expert.
