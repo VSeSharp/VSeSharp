@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @VSeSharp
 - 🌱 I love combining the GraphQL query and API's.
 - ⛅ I'm on the way of becoming an Azure Expert.
+- 🚀 DevOps is my vision.
